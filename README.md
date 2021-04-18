@@ -1,4 +1,4 @@
-# Non-extreme-SAP-noise-removal
+# A Two-stage Method for Non-extreme Value Salt-and-Pepper Noise Removal
 ## Abstract
 There are several previous methods based on neural
 network can have great performance in denoising salt and pepper
