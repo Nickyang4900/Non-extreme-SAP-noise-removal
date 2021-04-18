@@ -12,4 +12,18 @@ then a filter is used to modify it to 0 which is benefit for further
 work. And another convolutional neural network is used followed
 the filter to do the denoising and restoration work.
 
-![Loss-Unet](https://user-images.githubusercontent.com/48509610/115139018-36b4f480-a062-11eb-9598-aed067d6b3ef.png)
+## Results
+Corrupted, 20% SAP noise at non-extreme value
+![1](https://user-images.githubusercontent.com/48509610/115139100-acb95b80-a062-11eb-9f44-89fee856803d.png)
+
+Stage1-Output, noise detection
+![Blacked-1](https://user-images.githubusercontent.com/48509610/115139089-a0350300-a062-11eb-858e-28537c9cae33.png)
+
+Stage2-Output, PSNR = 39.07dB
+![Output_9](https://user-images.githubusercontent.com/48509610/115139095-a62ae400-a062-11eb-9658-eb31f8c7c3c0.png)
+
+CounterPart, denoise directly PSNR = 35.52dB
+![Counterpart-Output](https://user-images.githubusercontent.com/48509610/115139366-10905400-a064-11eb-96f8-40976e6d731e.PNG)
+
+GT
+![GT](https://user-images.githubusercontent.com/48509610/115139370-19812580-a064-11eb-8ed9-37b880ead77a.png)
