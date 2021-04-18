@@ -25,7 +25,7 @@ Stage2-Output, PSNR = 39.07dB
 
 ![Output_9](https://user-images.githubusercontent.com/48509610/115139095-a62ae400-a062-11eb-9658-eb31f8c7c3c0.png)
 
-CounterPart, denoise directly PSNR = 35.52dB
+Counterpart, without preprocessing, PSNR = 35.52dB
 
 ![Counterpart-Output](https://user-images.githubusercontent.com/48509610/115139366-10905400-a064-11eb-96f8-40976e6d731e.PNG)
 
