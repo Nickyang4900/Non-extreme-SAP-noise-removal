@@ -11,3 +11,5 @@ network to detect the noise pixels in a wider range of value and
 then a filter is used to modify it to 0 which is benefit for further
 work. And another convolutional neural network is used followed
 the filter to do the denoising and restoration work.
+
+![Loss-Unet](https://user-images.githubusercontent.com/48509610/115139018-36b4f480-a062-11eb-9598-aed067d6b3ef.png)
