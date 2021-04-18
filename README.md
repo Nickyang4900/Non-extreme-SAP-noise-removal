@@ -14,6 +14,7 @@ the filter to do the denoising and restoration work.
 
 ## Results
 Corrupted, 20% SAP noise at non-extreme value
+
 ![1](https://user-images.githubusercontent.com/48509610/115139100-acb95b80-a062-11eb-9f44-89fee856803d.png)
 
 Stage1-Output, noise detection
