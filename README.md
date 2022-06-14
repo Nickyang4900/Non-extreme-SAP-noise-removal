@@ -1,4 +1,6 @@
 # A Two-stage Method for Non-extreme Value Salt-and-Pepper Noise Removal
+Code implementation of UESTC course project: Renwei Yang and YiKe Liu(co-first), 'A Two-stage Method for Non-extreme Value Salt-and-Pepper Noise Removal' [[paper]](https://arxiv.org/abs/2206.05520)
+
 ## Abstract
 There are several previous methods based on neural
 network can have great performance in denoising salt and pepper
